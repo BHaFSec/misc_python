@@ -9,7 +9,7 @@ Main author of this content is:
 
 Mike Baker -  Founder, Lead Researcher
 
-Twitter: @_Bike_Maker_ 
+Twitter: @\_Bike\_Maker\_ 
 
 Email: mike@bhafsec.com
 
