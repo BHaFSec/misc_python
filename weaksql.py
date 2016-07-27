@@ -4,7 +4,6 @@
 # Project My Shodan (PMS) - |m|
 #
 # @_bike_maker_
-import sys
 import MySQLdb
 
 class Brute:
